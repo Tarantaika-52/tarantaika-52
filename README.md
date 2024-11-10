@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div id="header" align="center">
+  ## Hi there 👋
+</div>
 <!--
 **Tarantaika-52/tarantaika-52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
